@@ -3,7 +3,7 @@ Requires at least: 2.8
 Tested up to: 3.5.1
 Version: 1.0.0
 Plugin URI: http://www.irydian.com/shop/wordpress/plugins/no-title-tooltips/
-Tags: remove, tooltips, title, attribute, menu, link, hover
+Tags: remove, tooltips, title, attribute, menu links, hover, text links
 Donate link: http://www.irydian.com/shop/wordpress/plugins/no-title-tooltips/
 Author: Keef
 Contributors: Keef 
