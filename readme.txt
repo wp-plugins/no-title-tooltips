@@ -4,7 +4,7 @@ Tested up to: 3.5.1
 Author: Keef
 Version: 1.0.0
 Plugin URI: http://www.irydian.com/shop/wordpress/plugins/no-title-tooltips/
-Tags: tooltips, title
+Tags: remove tooltips, title attribute, tooltip plugin, no tooltips, disable tooltips
 Donate link: http://www.irydian.com/shop/wordpress/plugins/no-title-tooltips/
 
 == Description ==
