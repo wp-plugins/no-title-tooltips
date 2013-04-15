@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
 Plugin Name: No Title Tooltips
 Plugin URI: http://www.irydian.com/shop/wordpress/plugins/no-title-tooltips/
