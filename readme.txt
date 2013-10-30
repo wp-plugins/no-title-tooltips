@@ -1,6 +1,6 @@
 === No Title Tooltips ===
 Requires at least: 2.8
-Tested up to: 3.6.1
+Tested up to: 3.7.1
 Author: Keef
 Version: 1.0.2
 Plugin URI: http://www.irydian.com/shop/wordpress/plugins/no-title-tooltips/
