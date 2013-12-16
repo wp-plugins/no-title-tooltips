@@ -4,7 +4,7 @@ Plugin Name: No Title Tooltips
 Plugin URI: http://www.irydian.com/shop/wordpress/plugins/no-title-tooltips/
 Description: Removes title tooltips
 Author: Keef
-Version: 1.0.3
+Version: 1.0.4
 
 This software is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
