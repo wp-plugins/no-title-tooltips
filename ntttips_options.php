@@ -2,7 +2,7 @@
 <h1>No Title Tooltips</h1>
 <div>
 <p>If you've found this plugin useful and want to say thanks, then a link on your site or a good rating in the <a href="http://wordpress.org/extend/plugins/no-title-tooltips/">WordPress Plugin Directory</a> will be more than appreciated.</p>
-<p>If you'd like to make a small Paypal donation to support future developments, that would be awesome and most gratefully received.</p>
+<p>To ensure timely updates please consider a small Paypal donation.  Your generosity and kindness will support future developments, which would be awesome and most gratefully received.</p>
 <div id="donate">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
