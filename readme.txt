@@ -1,8 +1,8 @@
 === No Title Tooltips ===
 Requires at least: 2.8
-Tested up to: 3.9.2
+Tested up to: 4.0
 Author: Keef
-Version: 1.0.8
+Version: 1.0.9
 Plugin URI: http://www.irydian.com/shop/wordpress/plugins/no-title-tooltips/
 Tags: remove tooltips, title attribute, tooltip plugin, no tooltips, disable tooltips
 Donate link: http://www.irydian.com/shop/wordpress/plugins/no-title-tooltips/
