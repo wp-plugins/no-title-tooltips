@@ -4,14 +4,14 @@ Plugin Name: No Title Tooltips
 Plugin URI: http://www.irydian.com/shop/wordpress/plugins/no-title-tooltips/
 Description: Removes title tooltips
 Author: Keef
-Version: 1.1.1
+Version: 1.1.2
 
 This software is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 */
 function add_no_tttips() {
-wp_enqueue_script('notttips', WP_CONTENT_URL . '/plugins/no-title-tooltips/notttips.js','','1.0.0',true);
+wp_enqueue_script('notttips', plugins_url() . '/no-title-tooltips/notttips.js','','1.0.0',true);
 }
 add_action('wp_enqueue_scripts', 'add_no_tttips');
 function no_title_tooltips_options()  {

@@ -2,7 +2,7 @@
 Requires at least: 2.8
 Tested up to: 4.1.1
 Author: Keef
-Version: 1.1.1
+Version: 1.1.2
 Plugin URI: http://www.irydian.com/shop/wordpress/plugins/no-title-tooltips/
 Tags: remove tooltips, title attribute, tooltip plugin, no tooltips, disable tooltips
 Donate link: http://www.irydian.com/shop/wordpress/plugins/no-title-tooltips/
@@ -16,5 +16,5 @@ There are no configuration options, simply install and activate.
 
 == Installation ==
 1. Download the plugin.
-2. Upload the plugin to your wp-content/plugins directory.
+2. Upload the plugin to your plugins directory.
 3. Activate the plugin.
