@@ -1,6 +1,6 @@
 === No Title Tooltips ===
 Requires at least: 2.8
-Tested up to: 4.1.1
+Tested up to: 4.2.2
 Author: Keef
 Version: 1.1.3
 Contributors: Keef
