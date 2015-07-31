@@ -1,8 +1,8 @@
 === No Title Tooltips ===
 Requires at least: 2.8
-Tested up to: 4.2.2
+Tested up to: 4.2.3
 Author: Keef
-Version: 1.1.3
+Version: 1.1.4
 Contributors: Keef
 Stable tag: trunk
 Plugin URI: http://www.irydian.com/shop/wordpress/plugins/no-title-tooltips/
